@@ -1,1 +1,1 @@
-# Magic8Ball-project
+# Magic8Ball
